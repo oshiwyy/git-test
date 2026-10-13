@@ -24,3 +24,9 @@ git push -u origin main
 ## 提交身份验证
 
 第二次提交，改用 GitHub 账号中已验证的主邮箱，用于验证 commit 归属。
+
+## 环境说明
+
+- git: MinGit 2.56.0，位于 C:\Users\22930\tools\MinGit
+- 鉴权: SSH key，走 ssh.github.com:443
+- 提交邮箱: 3672073880@qq.com（GitHub 账号已验证）
