@@ -20,3 +20,7 @@ git commit -m "first commit"
 git remote add origin git@github.com:oshiwyy/git-test.git
 git push -u origin main
 ```
+
+## 提交身份验证
+
+第二次提交，改用 GitHub 账号中已验证的主邮箱，用于验证 commit 归属。
